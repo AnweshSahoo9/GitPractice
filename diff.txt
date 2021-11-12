@@ -1,1 +1,2 @@
 This is another text file
+This is another line in diff.txt
